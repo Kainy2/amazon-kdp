@@ -1,11 +1,13 @@
 import React from 'react'
 
 interface Props {
-  children: any;
+  children: any,
+  className?: string
+  // ...props?: any,
 }
-const Text = ({children}: Props) => {
+const Text: React.FC<Props> = ({children, className, ...props}) => {
   return (
-    <div className='m-5 font-hind '>
+    <div className={`${className} m-5 font-hind`} {...props}>
       {children}
     </div>
   )

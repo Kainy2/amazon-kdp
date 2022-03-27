@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div>
        <section id='hero' className='flex h-[70vh] items-center my-auto text-gray-200 bg-zinc-800'>
-        <div className='h-1/2 w-full items-center flex md:justify-between space-x-20  border border-white md:border-none'>
+        <div className='h-1/2 w-full items-center flex md:justify-between space-y-20  border border-white md:border-none'>
           <div id='flex-section' className='md:w-1/2'>
             <div id='items' className='w-10/12 mx-auto text-center'>
               <Heading> Amazon KDP </Heading>
