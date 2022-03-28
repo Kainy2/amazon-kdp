@@ -1,9 +1,8 @@
 import React from 'react'
 
 interface Props {
-  children: any,
+  children: any;
   className?: string
-  // ...props?: any,
 }
 const Text: React.FC<Props> = ({children, className, ...props}) => {
   return (

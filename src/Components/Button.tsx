@@ -2,11 +2,12 @@ import React from 'react'
 
 interface Props {
   children: any;
+  className?: string; 
 }
-const Button = ({children}: Props) => {  return (
-    <button className='bg-orange-600 py-3 px-8 rounded w-max m-2 text-gray-100'>
+const Button : React.FC<Props> = ({children, className, ...props}: Props) => {  return (
+    <div className={` ${className} bg-orange-600 hover:bg-orange-500 active:bg-orange-400 transition-colors py-3 px-8 rounded w-max mx-auto m-2 text-gray-100 cursor-pointer`}>
       {children}
-    </button>
+    </div>
   )
 }
 
