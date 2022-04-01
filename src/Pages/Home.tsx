@@ -126,7 +126,6 @@ const Home = () => (
         <Text>
           Then you make more money..
         </Text>
-        whaatever you do wont count
         <iframe src="https://www.youtube.com/embed/cf9fxNncOjc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
         
         <Text>
