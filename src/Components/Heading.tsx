@@ -7,7 +7,7 @@ interface Props {
 }
 export const Heading: React.FC<Props> = ({ children, className, ...props }) => {
   return(
-    <h1 className='font-barlow text-5xl font-bold'>
+    <h1 className='font-barlow text-4xl font-bold'>
       {children}
     </h1>
   )

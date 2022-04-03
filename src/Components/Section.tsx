@@ -6,7 +6,7 @@ interface Props {
 }
 const Section: React.FC<Props> = ({children, className, ...props}) => {
   return (
-    <div className={`${className} py-20 px-[5%] md:px-[10%] md:flex flex-row-reverse`} {...props}>
+    <div className={`${className} py-20 px-[2%] md:px-[10%] md:flex nd:flex-row-reverse`} {...props}>
       {children}
     </div>
   )

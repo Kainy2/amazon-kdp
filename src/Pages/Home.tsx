@@ -16,7 +16,7 @@ const Home = () => (
 
     <main className=' font-circularstd font-medium text-xl text-zinc-900'>
       <section className='py-20 px-[5%] md:px-[10%]'>
-        <H3 className='my-32 '>
+        <H3 className='my-10'>
           I GIVE UP!!!!
         </H3>
         <div className=' md:flex flex-row-reverse '>
