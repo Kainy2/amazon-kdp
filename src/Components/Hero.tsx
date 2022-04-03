@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import {Heading} from './Heading'
-import Text from './Text'
+// import Text from './Text'
 import undrawServices from '../Assets/undraw_services.svg'
 
 
