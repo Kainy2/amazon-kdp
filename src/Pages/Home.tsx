@@ -29,37 +29,40 @@ const Home = () => (
 
 
             <Text>
-              I screamed with a loud voice probably for the third time in the middle of the night...causing disturbance to the neighborhood and as well lovers who were yet to be served BREAKFAST ( i.e heartbreak) having a recommitment to themselves after the heated Valentine's day celebration of 2021..
+              I screamed with a loud voice probably for the third time in the middle of the night…creating chaos to the neighborhood and as well lovers whose heart were yet to be shattered and served breakfast having a recommitment to themselves after the heated Valentine's day celebration of 2021..
             </Text>
             <Text>
-              Who am I to be caught in the arms of a woman after being severely frustrated from working like an Elephant and eating like an Ant and worst still, bearing the big fat but almost useless title of Chief Content Creator - working for brands who didn't value the mental energy and stress I put into research and creating content.
+              Who am I to be caught in the arms of a woman after being severely frustrated from working like an Elephant and eating like an Ant and worst still, claiming to be a FREELANCER but I wasn't really in charge of my FINANCE
             </Text>
           </div>
-
-
-
-
         </div>
+
         <Text>
           Na mumu de love jare..
         </Text>
         <Text>
           So they said OR so I thought until I stumbled on an opportunity that became the game-changer for me and then I knew that...
         </Text>
+        <Text>
+          IF YOU BROKE, INDEED NA YOUR BUSINESS, UNTIL YOU SLAM THE DOOR AND FREAKING DO SOMETHING ABOUT IT
+
+          Nothing really moves until you move..
+        </Text>
+
       </section>
 
       <section className='py-20 px-[5%] md:px-[10%] bg-orange-700 text-zinc-50 '>
 
         <H3 className='text-zinc-50'>
-          BUT WHAT EXACTLY CHANGED FOR ME?
+          BUT WHAT EXACTLY  MOVED FOR ME?
         </H3>
 
         <Text>
-          It Was Simply Coming Across An Opportunity By a Great Man Who later Became My Mentor in the Industry by name Mr. Victor (A.K.A Mr. Wealth)
+          It Was Simply Coming Across An Opportunity By a Great Man Who later Became My Mentor in the Industry I'm about to introduce you to now..
         </Text>
 
         <Text>
-          This Opportunity Has Helped And Is Still Helping A Lot of Nigerians Make Between $1,000 - $5,000 Passive Income Monthly By Uploading Books On Amazon With Just Their Smartphone Or Laptops - NO CAPITAL NEEDED
+          This Opportunity Has Helped And Is Still Helping A Lot of Nigerians Make Nothing Less than $500 - $3,000 Passive Income Monthly By Simply Uploading Books/Short Documents Online With Just Their Smartphone Or Laptop - NO CAPITAL NEEDED
         </Text>
 
         <Text>
@@ -67,11 +70,14 @@ const Home = () => (
         </Text>
 
         <Text>
-          This same opportunity made this guys who never thought of getting paid in hard currencies such as dollars become dollar monthly earners..
+          This particular opportunity while still testing my waters with it made me this in my 3rd month after I quit my hectic freelance job to jump and FOCUS on this goldmine..
         </Text>
 
         <iframe src="https://www.youtube.com/embed/sBUnrrej15A" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
 
+        <Text>
+        And this time, with less energy since everything is set on autopilot..that is, your uploaded books and short documents generate sales by itself for you even while you're asleep, stocking your royalties with dollars UNLIKE when I 'claimed' to be FREELANCING with little or no rest and a minimum content target turnover of 5 daily with nothing less than a thousand words..
+        </Text>
 
         <Text>
           But What Exactly Is This Opportunity Called And How Can It Help You Live Comfortably And Take Care Of All Or Most Of Your Needs And That Of Your Loved Ones By Earning Passive Income In Dollars Monthly?
@@ -81,6 +87,15 @@ const Home = () => (
           This opportunity is called - Amazon Kindle Direct Publishing
         </Text>
 
+        <Text>
+        But I prefer to call it the Auto-Book Dollar Pay Method..
+        </Text>
+        <Text>
+          And this is simply because everything you do targeted at building and retaining your earnings is completely done and dusted once and for all..
+        </Text>
+        <Text>
+          You don't need to come back visiting and checking your bookstore on and often.. Everything is AUTOMATIC
+        </Text>
       </section>
 
 
@@ -126,9 +141,9 @@ const Home = () => (
         <Text>
           Then you make more money..
         </Text>
-        
+
         <iframe src="https://www.youtube.com/embed/cf9fxNncOjc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-        
+
         <Text>
           Do you see that? Easy-peasy..
         </Text>
