@@ -15,8 +15,9 @@ const Footer: React.FC<Props> = ( { children, className, ...props } ) => (
                 <Button className=" text-zinc-100" href="tel:+2348148090531"> Call Now </Button>
             </div>
         </div>
-        <div className='text-xs px-3'>
+        <div className='text-xs px-3 md:w-[50%] '>
             Copyright 2022 - All rights reserved
+            <br />
             <br />
             This site is not part of Amazon website or network sites such as Google or any of it's subsidiary companies. Additionally, this website is not endorsed by Amazon, Google or Meta in any way. Amazon is a trademark for it's respective companies, and so is Google and Meta.
 
