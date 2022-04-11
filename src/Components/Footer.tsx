@@ -16,7 +16,6 @@ const Footer: React.FC<Props> = ( { children, className, ...props } ) => (
             </div>
         </div>
         <div className='text-xs px-3 sm:w-[50%] '>
-            
             Copyright 2022 - All rights reserved
             <br />
             <br />
