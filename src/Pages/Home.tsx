@@ -9,6 +9,19 @@ import Text from '../Components/Text'
 import Button from '../Components/Button'
 import Footer from '../Components/Footer'
 
+import para1 from '../Assets/para1.jpeg'
+import para2 from '../Assets/para2.jpeg'
+import para4 from '../Assets/para4.jpeg'
+import bottomImage01 from '../Assets/bottom-image01.jpeg'
+import bottomImage02 from '../Assets/bottom-image02.jpeg'
+import bottomImage03 from '../Assets/bottom-image03.jpeg'
+import bottomImage04 from '../Assets/bottom-image04.jpeg'
+import bottomImage05 from '../Assets/bottom-image05.jpeg'
+import bottomImage06 from '../Assets/bottom-image06.jpeg'
+import bottomImage07 from '../Assets/bottom-image07.jpeg'
+import bottomImage08 from '../Assets/bottom-image08.jpeg'
+import bottomImage09 from '../Assets/bottom-image09.jpeg'
+
 
 const Home = () => (
   <div className=''>
@@ -73,10 +86,12 @@ const Home = () => (
           This particular opportunity while still testing my waters with it made me this in my 3rd month after I quit my hectic freelance job to jump and FOCUS on this goldmine..
         </Text>
 
+        <img src={ para1 } className='md:w-1/2 mx-auto my-20' alt="print money" />
+
         <iframe src="https://www.youtube.com/embed/sBUnrrej15A" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
 
         <Text>
-        And this time, with less energy since everything is set on autopilot..that is, your uploaded books and short documents generate sales by itself for you even while you're asleep, stocking your royalties with dollars UNLIKE when I 'claimed' to be FREELANCING with little or no rest and a minimum content target turnover of 5 daily with nothing less than a thousand words..
+          And this time, with less energy since everything is set on autopilot..that is, your uploaded books and short documents generate sales by itself for you even while you're asleep, stocking your royalties with dollars UNLIKE when I 'claimed' to be FREELANCING with little or no rest and a minimum content target turnover of 5 daily with nothing less than a thousand words..
         </Text>
 
         <Text>
@@ -88,13 +103,24 @@ const Home = () => (
         </Text>
 
         <Text>
-        But I prefer to call it the Auto-Book Dollar Pay Method..
+          But I prefer to call it the Auto-Book Dollar Pay Method..
         </Text>
         <Text>
           And this is simply because everything you do targeted at building and retaining your earnings is completely done and dusted once and for all..
         </Text>
         <Text>
-          You don't need to come back visiting and checking your bookstore on and often.. Everything is AUTOMATIC
+          You don't need to come back visiting and checking your bookstore on and often.. Everything is AUTOMATIC and set on AUTOPILOT
+        </Text>
+
+        <Text>
+          There are many kindle publishing sites and bookstores that pays a huge some to publishers monthly by simply uploading books on their site but one of the biggest with multiple huge payment records to its publishers is AMAZON..
+        </Text>
+        <Text>
+          Amazon was recorded to pay it's publishers over $340.4+ million dollars in the year, 2021 for simply uploading and publishing their books on its site.
+        </Text>
+        <img className='sm:w-1/3 my-20 mx-auto' src={ para2 } alt="snippet" />
+        <Text>
+          Now pause for a while and ask yourself..how much from this did you receive? and how much from that amount or a larger one will you want to receive in the nearest time possible?..
         </Text>
       </section>
 
@@ -107,6 +133,10 @@ const Home = () => (
 
         <div className='md:flex  '>
           <div className='md:w-1/2'>
+            <Text>
+              First off,
+            </Text>
+
             <Text>
               Amazon Kindle Direct Publishing is the publishing section of Amazon.com where you can publish books either long reads (books with hundreds of pages), short reads (books with lesser pages) or even Low and no content books like notebook, log book, sketch book, colouring books, puzzle books, activity books etc. for FREE and get patronized from all over the world by the over 300-million active customers of Amazon…
             </Text>
@@ -123,11 +153,11 @@ const Home = () => (
             </Text>
           </div>
 
-          <img src={ printMoney } className='md:w-1/2   my-20' alt="print money" />
+          <img src={ printMoney } className='md:w-1/2  my-20' alt="print money" />
         </div>
 
         <Text>
-          Let’s say you CREATE (Not Write) and PUBLISH a book and price it at $9.99 and let’s assume 100 people buy that book in a month
+          Let’s say you CREATE and PUBLISH a book and price it at $9.99 and let’s assume 100 people buy that book in a month
         </Text>
 
         <Text>
@@ -221,9 +251,9 @@ const Home = () => (
         <Text>
           - If you're already an author and you haven't made a dime from your book at least to cover up cost of production but you keep getting accolades and compliments of You're a good writer - keep it up' while your bank account remains constant at zero figures with 'sapa' threatening your life day and night..
         </Text>
-
+        <img src={ para4 } className='md:w-1/2 mx-auto my-20' alt="print money" />
         <Text>
-          This opportunity will be of a huge impact to you - your writing skill and your financial status just like it is to (Name of two students)
+          This opportunity will be of a huge impact to you - your writing skill and your financial status just like it is to Emmanuel and
         </Text>
       </section>
 
@@ -267,6 +297,25 @@ const Home = () => (
           (Two Video and Picture Testimonials)
         </Text>
         <iframe src="https://www.youtube.com/embed/ENt7MGXf4AQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
+
+
+        <section className=' py-28'>
+          <div className='flex justify-between space-x-5 md:space-x-40  my-20  overflow-auto cursor-e-resize'>
+            <img className=' max-h-[500px] ' src={ bottomImage01 } alt="do you know" />
+            <img className='max-h-[500px]   ' src={ bottomImage02 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage03 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage04 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage05 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage06 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage07 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage08 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage09 } alt="sample" />
+          </div>
+          <div className=' flex md:hidden w-1/2 mx-auto space-x-8 justify-center '>
+            <button className='font-extrabold '>&lt;</button>
+            <button className='font-extrabold '>&gt;</button>
+          </div>
+        </section>
 
         <Text className='text-center'>
           DONE?
