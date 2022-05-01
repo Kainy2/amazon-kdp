@@ -16,7 +16,7 @@ const Hero = () => {
             <div id='items' className='w-10/12 mx-auto text-center'>
               <Heading> ROADMAP TO MAKING $500 - $3K MONTHLY INCOME PLAN </Heading>
             </div>
-            <Button>Get Started</Button>
+            <Button href='https://sendfox.com/timprof4'>Get Started</Button>
           </div>
           <div className='items-center hidden md:block flex-1'>
             <img className='h-[50vh]' src={ undrawServices } alt="services" />
