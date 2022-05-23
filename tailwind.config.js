@@ -3,7 +3,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      hind: ['Hind', 'sans- serif'],
+      barlow: ['Barlow', 'sans- serif'] 
+    },
+    extend: {
+    },
   },
   plugins: [],
 }
