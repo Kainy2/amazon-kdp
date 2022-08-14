@@ -76,7 +76,9 @@ const Home = () => (
         </Text>
 
         <Text className='font-semibold '>
-          This Opportunity Has Helped And Is Still Helping A Lot of Nigerians Make Nothing Less than $500 - $3,000 Passive Income Monthly By Simply Uploading Books/Short Documents Online With Just Their Smartphone Or Laptop - NO CAPITAL NEEDED
+
+          This Opportunity Has Helped And Is Still Helping A Lot of individuals Make Nothing Less than $500 - $3,000 Passive Income Monthly By Simply creating and Uploading Books/Short Documents Online With Just Their Smartphone Or Laptop - NO CAPITAL NEEDED
+
         </Text>
 
         <Text className='italic'>
@@ -91,11 +93,11 @@ const Home = () => (
 
 
         <Text className='font-semibold'>
-          And this time, with less energy since everything is set on AUTOPILOT.. that makes your books and short documents generate sales by itself for you even while you're asleep, stocking your royalties with dollars UNLIKE when I 'claimed' to be FREELANCING with little or no rest and a minimum content target turnover of 5 submissions daily, with nothing less than a thousand words..
+          And this time, with less energy since everything is set on AUTOPILOT.. that makes your books and short documents generate sales by itself for you even while you're asleep...
         </Text>
         <br />
         <Text className='font-semibold'>
-          But What Exactly Is This Opportunity Called And How Can It Help You Live Comfortably And Take Care Of All Or Most Of Your Needs And That Of Your Loved Ones By Earning Passive Income In Dollars Monthly?
+          What Exactly Is This Opportunity Called And How Can It Help You Live Comfortably And Take Care Of All Or Most Of Your Needs And That Of Your Loved Ones ?
         </Text>
 
         <Text>
@@ -179,17 +181,16 @@ const Home = () => (
         </Text>
 
         <Text>
-          Now, the reason I said you mustn't be a writer or close to any of those for you to start publishing your creatives on Amazon kindle is that there's a special BONUS package/formula in the blueprint that I am going to show you, called the <span className='font-semibold'> WRITING WITHOUT WRITING FORMULA.</span>
-
+          Now, the reason I said you mustn't be a writer or close to any of those for you to start publishing your creatives on Amazon kindle is that there's a special formula called the <span className='font-semibold'> WRITING WITHOUT WRITING FORMULA</span>, that makes publishing on Amazon very easy ...
           {/* Mr. Wealth gives all his students  */ }
         </Text>
 
         <Text>
-          With this particular formula, you'll learn how to CREATE and PUBLISH at least one book per day.
+          With this particular formula, you'll be able to CREATE and PUBLISH at least one book per day.
         </Text>
 
         <Text>
-          And even if you are very busy or lazy, with this formula, you can be guaranteed of  creating and publishing a minimum of 15 books in 30 days
+          And even if you are very busy or lazy with this formula, you can be guaranteed of  creating and publishing a minimum of 15 books in 30 days
         </Text>
 
         <Text>
@@ -254,56 +255,13 @@ const Home = () => (
           - If you're already an author and you haven't made a dime from your book at least to cover up cost of production but you keep getting accolades and compliments of <span className=' font-semibold italic mr-1'> "You're a good writer - keep it up" </span> while your bank account remains constant at zero figures with <span className='italic mr-1'> 'sapa' </span> threatening your life day and night..
         </Text>
         <Text>
-          This opportunity will be of a huge impact to you - your writing skill and your financial status, while giving you the opportuniy to focus on more PRODUCTIVE things and increasing your worth just like it is to Emmanuel and Ijeoma in the videos below.
-        </Text>
-
-        <iframe src="https://www.youtube.com/embed/sBUnrrej15A" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-
-      </section>
-
-      <section className='py-20 px-[8%] '>
-        <iframe src="https://www.youtube.com/embed/j8rQgIugtHQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-
-        <Text>
-          I wonder how life would have been to many Nigerians, myself inclusive if I didn't come to the knowledge of Amazon Kindle publishing and the FINANCIAL FREEDOM it gives..
+          This opportunity will be of a huge impact to you - your writing skill and your financial status, while giving you the opportuniy to focus on more PRODUCTIVE things and increasing your worth...
         </Text>
 
         <Text>
-          And no matter what your own life may look like - maybe good enough but you desire to make it better or the best or maybe not so good the way you had it all planned out in your head...all those doesn't really matter now as long as you're READY to take prompt and immediate action...and before you know, sooner than you think, you'll be chilling with the big boys… Counting your money in dollars..
+          Now for a second, imagine making this figures below on a monthly basis, I'm very sure you'll have less financial worries
         </Text>
 
-        <img src={ para4 } className='md:w-1/2 mx-auto my-20' alt="print money" />
-
-
-        <Text>
-          Because of you, I've  put together a short but detailed BLUEPRINT called <span className='font-semibold'> "THE ULTIMATE KINDLE PUBLISHING ROADMAP FOR BEGINNERS"</span> and as well, a video that takes you by hand and shows you how you can start, profit and scale as an Amazon Kindle publisher, either as a full time hustle or as a passive income...
-
-          <br />
-          {/* Mr. Wealth has put together a short video that shows you how you can start, benefit and scale as an  */ }
-        </Text>
-
-        <Text>
-          Whichever category you would want to have yourself in, this BLUEPRINT, be sure to make your first $100 as a Kindle publisher in the next 7 days..
-        </Text>
-
-        <Button href='https://sendfox.com/timprof4' className='my-20 text-sm text-center'>CLICK HERE TO HAVE IMMEDIATE ACCESS TO THE FREE BLUEPRINT/VIDEO</Button>
-
-        <Text>
-          And just in case you want to keep feeding your eyes with a few mind-blowing  more-than-a-miracle testimonials from some young action takers/non-procrastinators who also leveraged on this passive income system to change their lives for the best...
-        </Text>
-
-        <Text>
-          View more below...
-        </Text>
-
-
-        <iframe src="https://www.youtube.com/embed/pGJL3EUyi5w" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-
-
-        <iframe src="https://www.youtube.com/embed/-1CPrgAS6h0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-
-
-        {/* <iframe src="https://www.youtube.com/embed/ENt7MGXf4AQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */ }
 
 
         <div className=' py-28'>
@@ -324,12 +282,137 @@ const Home = () => (
           </div>
         </div>
 
+
+        {/* <iframe src="https://www.youtube.com/embed/sBUnrrej15A" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */ }
+
+      </section>
+
+      <section className='py-20 px-[8%] '>
+        {/* <iframe src="https://www.youtube.com/embed/j8rQgIugtHQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */ }
+
+        <Text>
+          I wonder how life would have been to the average human, myself inclusive if I didn't come to the knowledge of Amazon Kindle publishing and the FINANCIAL FREEDOM it gives..
+        </Text>
+
+        <Text>
+          And no matter what your own life may look like - maybe good enough but you desire to make it better or maybe not so good the way you had it all planned out in your head...all those doesn't really matter now as long as you're READY to take prompt and immediate action...and before you know, sooner than you think, you'll be chilling with the big boys… Counting your money in dollars..
+        </Text>
+
+        <img src={ para4 } className='md:w-1/2 mx-auto my-20' alt="print money" />
+
+
+        <Text>
+          Because of you, I've  put together a  5-DAYS LIVE INTENSIVE TRAINING where I'll take you by hand and show you how you can start, profit and scale as an Amazon Kindle Publisher, either as a full time hustle or as a passive income..
+
+
+
+
+
+
+
+
+          Some of what you'll be learning in the class includes..
+
+          <br />
+          <br />
+          ¶ How to create an Amazon Kindle Direct Publishing account
+          <br />
+          <br />
+
+          ¶ How to create a US Dollar account (no matter your nationality) to recieve your Amazon Dollar monthly royalties
+          <br />
+          <br />
+
+          ¶ How to verify your US account (no matter your nationality)
+          <br />
+          <br />
+
+          ¶ How to design beautiful e-book covers
+          <br />
+          <br />
+
+          ¶ Low Content; no content niches to start publishing on
+          (These category is responsible for the wealth of many kindle publishers but also unknown to many as well)
+          <br />
+          <br />
+
+          ¶ Hot skills and tools to becoming a successful kindle publisher
+          <br />
+          <br />
+
+          ¶ High in-demand niches/sub niches to publish on immediately
+          <br />
+          <br />
+
+          ¶ Secrets tips to staying safe on Amazon (avoiding banning) and becoming a best seller
+          <br />
+          <br />
+
+          All of these knowledge you'll be getting for a tiny TRAINING FEE of #2,000 only..
+          <br />
+          <br />
+
+          Yes!. You read that right..
+          <br />
+          <br />
+
+          With just #2,000, you'll be able to learn all those from me...and if you're very fast in taking action, you'll also have access to these BONUSES
+          <br />
+          <br />
+
+          ¶ How to link your Amazon Kindle account and US account together (no matter your nationality) to recieve your monthly royalties
+          <br />
+          <br />
+
+          ¶ Secret code to attracting hot foreign buyers
+          <br />
+          <br />
+
+          ¶ A <span className='font-bold capitalize'> free copy    </span>of my bestselling book <span className='font-bold'>   'The Ultimate Kindle Publishing Roadmap for Beginners' </span>
+          <br />
+          <br />
+
+
+          ..and if you're ready to get started to having your best life with this opportunity, click the button below to hop on this training before the FEE increases..
+
+
+
+
+
+          <br />
+          {/* Mr. Wealth has put together a short video that shows you how you can start, benefit and scale as an  */ }
+        </Text>
+
+        <Button href='https://sendfox.com/timprof4' className='my-20 text-sm text-center capitalize'>
+          Click here to enrol for the training.
+        </Button>
+
+        <Text>
+          Meanwhile, while you're still here, see for yourself what some of my students have to say from previous editions of the training..
+        </Text>
+        <br />
+
+        (Pictures)
+        <br />
+
+
+        {/* 
+
+        <iframe src="https://www.youtube.com/embed/pGJL3EUyi5w" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
+
+
+        <iframe src="https://www.youtube.com/embed/-1CPrgAS6h0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */}
+
+
+        {/* <iframe src="https://www.youtube.com/embed/ENt7MGXf4AQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */ }
+
+
         <Text className='text-center text-3xl font-bold'>
           DONE?
         </Text>
 
         <Text className='text-center'>
-          Remember to click the <span className='font-semibold'> START HERE</span> button below to have access to the  <span className='font-semibold'>  FREE BLUEPRINT AND VIDEO</span> put together just for you..
+          Remember to click the <span className='font-semibold'> START HERE</span> button below to enrol for the training before the fee increases.
         </Text>
 
         <Button href='https://sendfox.com/timprof4' className='mx-auto my-14'>Start Here</Button>
