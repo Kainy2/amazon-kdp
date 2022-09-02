@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0d8ce3d.css",
-    "main.js": "/static/js/main.2a7b0785.js",
-    "static/media/proof3.jpg": "/static/media/proof3.69c8b4b49f4870c1c014.jpg",
-    "static/media/roll-2.jpg": "/static/media/roll-2.c4621469ee1edfaf3c2f.jpg",
-    "static/media/proof1.jpg": "/static/media/proof1.602cd00b995c557020f8.jpg",
-    "static/media/proof2.jpg": "/static/media/proof2.fe6c0f3fcee973747226.jpg",
-    "static/media/roll-3.jpg": "/static/media/roll-3.b8a744cd219f0d74cd3f.jpg",
+    "main.css": "/static/css/main.2615183a.css",
+    "main.js": "/static/js/main.d1e95b09.js",
+    "static/media/bottom-image09.jpeg": "/static/media/bottom-image09.7b116b140a75aef0d8c0.jpeg",
+    "static/media/bottom-image04.jpeg": "/static/media/bottom-image04.fae07c539f2ed4ca0ecd.jpeg",
+    "static/media/bottom-image07.jpeg": "/static/media/bottom-image07.87a7129b489b08a7dbf2.jpeg",
+    "static/media/bottom-image08.jpeg": "/static/media/bottom-image08.4bb0ff67b0c198488d59.jpeg",
+    "static/media/bottom-image01.jpeg": "/static/media/bottom-image01.3fa2b471a0c7b7e6c4fe.jpeg",
+    "static/media/bottom-image03.jpeg": "/static/media/bottom-image03.61dccadf9ecbecf0bfc2.jpeg",
+    "static/media/bottom-image05.jpeg": "/static/media/bottom-image05.023f9495b98d3ec8db36.jpeg",
+    "static/media/bottom-image02.jpeg": "/static/media/bottom-image02.1bfa61c9c9a9e0a6b17c.jpeg",
+    "static/media/bottom-image06.jpeg": "/static/media/bottom-image06.23b8f29aaa6c353c9c9e.jpeg",
     "static/media/para1.jpeg": "/static/media/para1.7687259c454f75a04a4b.jpeg",
-    "static/media/roll-1.jpg": "/static/media/roll-1.91e9efe7448b2db6a4e6.jpg",
     "static/media/para2.jpeg": "/static/media/para2.1cd52609909d2036c4f2.jpeg",
     "static/media/printing_invoices.svg": "/static/media/printing_invoices.38a15317e19a5caa4b9784906c483a83.svg",
-    "static/media/roll-4.jpg": "/static/media/roll-4.225be2a5727c17ace452.jpg",
     "static/media/money-hero.jpeg": "/static/media/money-hero.4258ad68cb0e4138e62a.jpeg",
     "static/media/para4.jpeg": "/static/media/para4.4258ad68cb0e4138e62a.jpeg",
     "static/media/sad.svg": "/static/media/sad.3493763a443cf79189257d58497d2b2f.svg",
     "static/media/transfer_money.svg": "/static/media/transfer_money.76931d6d6a319e9658b68bca3843cc09.svg",
     "static/media/undraw_services.svg": "/static/media/undraw_services.b7e1f54b08c6cb2c96b0701003e8e13c.svg",
     "index.html": "/index.html",
-    "main.c0d8ce3d.css.map": "/static/css/main.c0d8ce3d.css.map",
-    "main.2a7b0785.js.map": "/static/js/main.2a7b0785.js.map"
+    "main.2615183a.css.map": "/static/css/main.2615183a.css.map",
+    "main.d1e95b09.js.map": "/static/js/main.d1e95b09.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0d8ce3d.css",
-    "static/js/main.2a7b0785.js"
+    "static/css/main.2615183a.css",
+    "static/js/main.d1e95b09.js"
   ]
 }
