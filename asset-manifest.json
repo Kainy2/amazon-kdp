@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0d8ce3d.css",
+    "main.js": "/static/js/main.2a7b0785.js",
+    "static/media/proof3.jpg": "/static/media/proof3.69c8b4b49f4870c1c014.jpg",
+    "static/media/roll-2.jpg": "/static/media/roll-2.c4621469ee1edfaf3c2f.jpg",
+    "static/media/proof1.jpg": "/static/media/proof1.602cd00b995c557020f8.jpg",
+    "static/media/proof2.jpg": "/static/media/proof2.fe6c0f3fcee973747226.jpg",
+    "static/media/roll-3.jpg": "/static/media/roll-3.b8a744cd219f0d74cd3f.jpg",
+    "static/media/para1.jpeg": "/static/media/para1.7687259c454f75a04a4b.jpeg",
+    "static/media/roll-1.jpg": "/static/media/roll-1.91e9efe7448b2db6a4e6.jpg",
+    "static/media/para2.jpeg": "/static/media/para2.1cd52609909d2036c4f2.jpeg",
+    "static/media/printing_invoices.svg": "/static/media/printing_invoices.38a15317e19a5caa4b9784906c483a83.svg",
+    "static/media/roll-4.jpg": "/static/media/roll-4.225be2a5727c17ace452.jpg",
+    "static/media/money-hero.jpeg": "/static/media/money-hero.4258ad68cb0e4138e62a.jpeg",
+    "static/media/para4.jpeg": "/static/media/para4.4258ad68cb0e4138e62a.jpeg",
+    "static/media/sad.svg": "/static/media/sad.3493763a443cf79189257d58497d2b2f.svg",
+    "static/media/transfer_money.svg": "/static/media/transfer_money.76931d6d6a319e9658b68bca3843cc09.svg",
+    "static/media/undraw_services.svg": "/static/media/undraw_services.b7e1f54b08c6cb2c96b0701003e8e13c.svg",
+    "index.html": "/index.html",
+    "main.c0d8ce3d.css.map": "/static/css/main.c0d8ce3d.css.map",
+    "main.2a7b0785.js.map": "/static/js/main.2a7b0785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d8ce3d.css",
+    "static/js/main.2a7b0785.js"
+  ]
+}
