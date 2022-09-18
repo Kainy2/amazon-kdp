@@ -21,6 +21,9 @@ import bottomImage07 from '../Assets/bottom-image07.jpeg'
 import bottomImage08 from '../Assets/bottom-image08.jpeg'
 import bottomImage09 from '../Assets/bottom-image09.jpeg'
 
+import lastImage1 from '../Assets/last-image-1.jpg'
+import lastImage2 from '../Assets/last-image-2.jpg'
+import lastImage3 from '../Assets/last-image-3.jpg'
 
 const Home = () => (
   <div className=''>
@@ -265,7 +268,7 @@ const Home = () => (
 
 
         <div className=' py-28'>
-          <div className='flex justify-between space-x-5 md:space-x-40   overflow-auto cursor-e-resize'>
+          <div className='flex justify-between space-x-5 md:space-x-40 overflow-x-auto cursor-e-resize'>
             <img className=' max-h-[500px] ' src={ bottomImage01 } alt="do you know" />
             <img className='max-h-[500px]   ' src={ bottomImage02 } alt="sample" />
             <img className='max-h-[500px]  ' src={ bottomImage03 } alt="sample" />
@@ -375,10 +378,6 @@ const Home = () => (
 
           ..and if you're ready to get started to having your best life with this opportunity, click the button below to hop on this training before the FEE increases..
 
-
-
-
-
           <br />
           {/* Mr. Wealth has put together a short video that shows you how you can start, benefit and scale as an  */ }
         </Text>
@@ -392,20 +391,19 @@ const Home = () => (
         </Text>
         <br />
 
-        (Pictures)
         <br />
 
-
-        {/* 
-
-        <iframe src="https://www.youtube.com/embed/pGJL3EUyi5w" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe>
-
-
-        <iframe src="https://www.youtube.com/embed/-1CPrgAS6h0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */}
-
-
-        {/* <iframe src="https://www.youtube.com/embed/ENt7MGXf4AQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className='mx-auto my-20 w-full h-[230px] sm:h-[360px] sm:w-[600px] md:h-[400px] md:w-[650px] lg:w-[853px] lg:h-[480px]'></iframe> */ }
-
+        <div className=' py-28'>
+          <div className='flex justify-between space-x-5 md:space-x-40   overflow-x-auto cursor-e-resize'>
+            <img className=' max-h-[500px] ' src={ lastImage3 } alt="final" />
+            <img className='max-h-[500px]   ' src={ lastImage2 } alt="final" />
+            <img className='max-h-[500px]  ' src={ lastImage3 } alt="final" />
+          </div>
+          <div className=' flex md:hidden w-1/2 mx-auto space-x-8 justify-center '>
+            <button className='font-extrabold '>&lt;</button>
+            <button className='font-extrabold '>&gt;</button>
+          </div>
+        </div>
 
         <Text className='text-center text-3xl font-bold'>
           DONE?
