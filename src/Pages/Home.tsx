@@ -11,15 +11,15 @@ import Footer from '../Components/Footer'
 import para1 from '../Assets/para1.jpeg'
 import para2 from '../Assets/para2.jpeg'
 import para4 from '../Assets/para4.jpeg'
-import bottomImage01 from '../Assets/bottom-image01.jpeg'
-import bottomImage02 from '../Assets/bottom-image02.jpeg'
-import bottomImage03 from '../Assets/bottom-image03.jpeg'
-import bottomImage04 from '../Assets/bottom-image04.jpeg'
-import bottomImage05 from '../Assets/bottom-image05.jpeg'
-import bottomImage06 from '../Assets/bottom-image06.jpeg'
-import bottomImage07 from '../Assets/bottom-image07.jpeg'
-import bottomImage08 from '../Assets/bottom-image08.jpeg'
-import bottomImage09 from '../Assets/bottom-image09.jpeg'
+// import bottomImage01 from '../Assets/bottom-image01.jpeg'
+// import bottomImage02 from '../Assets/bottom-image02.jpeg'
+// import bottomImage03 from '../Assets/bottom-image03.jpeg'
+// import bottomImage04 from '../Assets/bottom-image04.jpeg'
+// import bottomImage05 from '../Assets/bottom-image05.jpeg'
+// import bottomImage06 from '../Assets/bottom-image06.jpeg'
+// import bottomImage07 from '../Assets/bottom-image07.jpeg'
+// import bottomImage08 from '../Assets/bottom-image08.jpeg'
+// import bottomImage09 from '../Assets/bottom-image09.jpeg'
 
 import lastImage1 from '../Assets/last-image-1.jpg'
 import lastImage2 from '../Assets/last-image-2.jpg'
@@ -277,7 +277,14 @@ const Home = () => (
             <img className='max-h-[500px]  ' src={ bottomImage06 } alt="sample" />
             <img className='max-h-[500px]  ' src={ bottomImage07 } alt="sample" />
             <img className='max-h-[500px]  ' src={ bottomImage08 } alt="sample" />
-            <img className='max-h-[500px]  ' src={ bottomImage09 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ bottomImage09 } alt="sample" /> */}
+
+
+            <img className='max-h-[500px]  ' src={ roll1 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ roll2 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ roll3 } alt="sample" />
+            <img className='max-h-[500px]  ' src={ roll4 } alt="sample" />
+
           </div>
           <div className=' flex md:hidden w-1/2 mx-auto space-x-8 justify-center '>
             <button className='font-extrabold '>&lt;</button>
@@ -314,7 +321,7 @@ const Home = () => (
 
 
 
-          Some of what you'll be learning in the class includes..
+          Some of what you'll be learning in this training are
 
           <br />
           <br />
@@ -410,10 +417,10 @@ const Home = () => (
         </Text>
 
         <Text className='text-center'>
-          Remember to click the <span className='font-semibold'> START HERE</span> button below to enrol for the training before the fee increases.
+          Remember to click the  <span className='font-semibold'> START HERE </span> button to enrol for the training immediately!
         </Text>
 
-        <Button href='https://sendfox.com/timprof4' className='mx-auto my-14'>Start Here</Button>
+        <Button href='https://sendfox.com/timprof4' className='mx-auto my-14 w-max'>Start Here</Button>
 
       </section>
     </main>
